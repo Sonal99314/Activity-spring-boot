@@ -1,5 +1,5 @@
 package com.axis.springlearn.controller
-// https://medium.com/thecodefountain/design-a-rest-api-with-spring-boot-and-mysql-a5572d94ccc7
+
 import com.axis.springlearn.model.BloodBank
 import com.axis.springlearn.service.BloodBankDAO
 import org.springframework.beans.factory.annotation.Autowired
